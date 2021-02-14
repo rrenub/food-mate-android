@@ -1,12 +1,13 @@
 # Food mate
 
-![App logo](https://play-lh.googleusercontent.com/LUUCqzI1FRHeDuYqxJJBKrPYmjAYymqneaQo45zCG-OjYgfKTOwpOLd5aauLyeMxiMY=s360)
-
 Food mate is calorie tracker app for Android to know how many calories and macronutrients are ingested each day.
 Each food eaten can be added manually or using the barcode scanner integrated with the app. Once a new food is added,
 it will be stored locally if it needs to be added more times.
 
-![Available on the Play Store](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png?hl=es-419)
+</br>
+<p align="center">
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png?hl=es-419" alt="How the detection system works" width="600" height="auto">
+</p>
 
 ## Behind the scenes
 
