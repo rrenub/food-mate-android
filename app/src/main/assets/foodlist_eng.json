@@ -1,0 +1,45 @@
+{
+  "foods": [{
+    "name": "Avocado",
+    "calories": "160",
+    "proteins": "1",
+    "carbs": "22",
+    "fats:": "0"
+  },
+    {
+      "name": "Banana",
+      "calories": "89",
+      "proteins": "1",
+      "carbs": "22",
+      "fats:": "0"
+    },
+    {
+      "name": "Kiwi",
+      "calories": "61",
+      "proteins": "2",
+      "carbs": "25",
+      "fats:": "0"
+    },
+    {
+      "name": "Apple",
+      "calories": "52",
+      "proteins": "0",
+      "carbs": "13",
+      "fats:": "0"
+    },
+    {
+      "name": "Watermelon",
+      "calories": "30",
+      "proteins": "1",
+      "carbs": "11",
+      "fats:": "0"
+    },
+    {
+      "name": "Melón",
+      "calories": "30",
+      "proteins": "1",
+      "carbs": "12",
+      "fats:": "0"
+    }
+  ]
+}

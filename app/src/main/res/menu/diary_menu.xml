@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_pastday"
+        android:icon="@drawable/ic_keyboard_arrow_left"
+        android:title="action_pastday"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/action_nextday"
+        android:icon="@drawable/ic_keyboard_arrow_right"
+        android:title="action_nextday"
+        app:showAsAction="ifRoom"/>
+
+
+</menu>

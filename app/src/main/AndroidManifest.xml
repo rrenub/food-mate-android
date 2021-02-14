@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ruben.pem.android.food_mate_android">
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="true" />
+
+    <application
+        android:name=".app.AppMediator"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher_food_mate"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_food_mate_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <meta-data
+            android:name="com.google.android.gms.vision.DEPENDENCIES"
+            android:value="barcode" />
+
+        <activity android:name=".diaryFood.DiaryFoodActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".addFoodList.AddFoodListActivity"
+            android:parentActivityName=".diaryFood.DiaryFoodActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".diaryFood.DiaryFoodActivity" />
+        </activity>
+        <activity
+            android:name=".addFoodManual.AddFoodManualActivity"
+            android:parentActivityName=".diaryFood.DiaryFoodActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".diaryFood.DiaryFoodActivity" />
+        </activity>
+
+        <activity
+            android:name=".ScannerBarcode.BCScannerActivity"
+            android:parentActivityName=".diaryFood.DiaryFoodActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".diaryFood.DiaryFoodActivity" />
+        </activity>
+
+        <activity
+            android:name=".DiaryFoodDetail.DiaryFoodDetailActivity"
+            android:parentActivityName=".diaryFood.DiaryFoodActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".diaryFood.DiaryFoodActivity" />
+        </activity>
+    </application>
+
+</manifest>

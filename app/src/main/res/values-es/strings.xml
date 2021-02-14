@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Food mate</string>
+    <string name="diary_food_title">Diario nutricional</string>
+    <string name="add_food_list_name">Añadir nuevo alimento</string>
+    <string name="fats_hint">Grasas (gr.)</string>
+    <string name="carbs_hint">Carbohidratos (gr.)</string>
+    <string name="prots_hint">Proteínas (gr.)</string>
+    <string name="btn_new_food">Añadir un nuevo alimento</string>
+    <string name="calories">Calorías</string>
+    <string name="nutritional_info_100gt">INFORMACIÓN NUTRICIONAL (POR 100 Gr.)</string>
+    <string name="quantity_hint">Cantidad</string>
+    <string name="food_name_label">Nombre del alimento</string>
+    <string name="food_data_label">DATOS DEL ALIMENTO</string>
+    <string name="empty_string">\????</string>
+    <string name="proteins">Proteínas</string>
+    <string name="carbs">Carbohidratos</string>
+    <string name="fats">Fats</string>
+    <string name="quantity">Cantidad</string>
+    <string name="macronutrients">MACRONUTRIENTES INGERIDOS</string>
+    <string name="delete_btn">Eliminar del diario</string>
+    <string name="warning_form">Rellene todos los campos</string>
+    <string name="calories_hint">Calorías (kcal)</string>
+    <string name="kcal_ingested">" kcal ingeridas"</string>
+</resources>

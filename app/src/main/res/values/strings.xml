@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Food mate</string>
+    <string name="diary_food_title">Food journal</string>
+    <string name="add_food_list_name">Add new food</string>
+    <string name="fats_hint">Fats (gr.)</string>
+    <string name="carbs_hint">Carbs (gr.)</string>
+    <string name="prots_hint">Proteins (gr.)</string>
+    <string name="btn_new_food">Add new food</string>
+    <string name="calories">Calories</string>
+    <string name="nutritional_info_100gt">NUTRITIONAL INFORMATION (PER 100 GR.)</string>
+    <string name="quantity_hint">Quantity</string>
+    <string name="food_name_label">Name</string>
+    <string name="food_data_label">Food\'s information</string>
+    <string name="empty_string">\????</string>
+    <string name="proteins">Proteins</string>
+    <string name="carbs">Carbs</string>
+    <string name="fats">Fats</string>
+    <string name="quantity">Quantity</string>
+    <string name="macronutrients">MACRONUTRIENTS</string>
+    <string name="delete_btn">Delete from journal</string>
+    <string name="warning_form">Fill all the fields</string>
+    <string name="calories_hint">Calories (kcal)</string>
+    <string name="kcal_ingested">" kcal ingested"</string>
+    <string name="search_food">Buscar alimento</string>
+</resources>
