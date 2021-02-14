@@ -6,7 +6,7 @@ it will be stored locally if it needs to be added more times.
 
 </br>
 <p align="center">
-    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png?hl=es-419" alt="How the detection system works" width="600" height="auto">
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png?hl=es-419" alt="How the detection system works" width="400" height="auto">
 </p>
 
 ## Behind the scenes
