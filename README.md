@@ -5,9 +5,11 @@ Each food eaten can be added manually or using the barcode scanner integrated wi
 it will be stored locally if it needs to be added more times.
 
 </br>
-<a href="https://play.google.com/store/apps/details?id=ruben.pem.android.food_mate_android" align="center">
-    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png?hl=es-419" alt="How the detection system works" width="400" height="auto">
-</a>
+<p align="center">
+    <a href="https://play.google.com/store/apps/details?id=ruben.pem.android.food_mate_android">
+        <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png?hl=es-419" alt="How the detection system works" width="400" height="auto">
+    </a>
+</p>
 
 ## 💻  Behind the scenes
 
