@@ -15,7 +15,6 @@ it will be stored locally if it needs to be added more times.
 ## 💻  Behind the scenes
 
 This app was made using the Clean Code Architecture (MVP) and I used Java but I would like to port it Kotlin eventually.
-It was made for the subject Programación en Entornos Multidispositivos.
 
 
 
